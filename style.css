@@ -1,0 +1,9 @@
+body{
+    background-color: lightgray;
+}
+.margin{
+    margin: 50px 30px;
+}
+.span{
+    font-style: italic;
+}
